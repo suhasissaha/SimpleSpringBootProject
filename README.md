@@ -1,1 +1,3 @@
-# spring_boot_proj1
+# Spring Boot
+
+A Simple Spring Boot project for learning...
